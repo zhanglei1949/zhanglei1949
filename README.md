@@ -21,7 +21,7 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/zhanglei1949">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhanglei1949&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanglei1949&theme=buefy&layout=compact" />
 </a>
